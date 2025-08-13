@@ -65,5 +65,22 @@ Conversational memory for follow-up queries
 
 Deploy app on Streamlit Cloud, Hugging Face Spaces, or Vercel
 
+#demo link
+http://localhost:8501
+
+
+# approach
+The chatbot loads employee data from a JSON file using Python’s json and pathlib. The backend is built with FastAPI, exposing a /chat POST endpoint that accepts natural language queries.
+
+Query processing uses a simple keyword matcher that compares query words against employee skills and projects, returning up to three best matches. Responses are formatted into readable text.
+
+The frontend uses Streamlit to take user input, send queries to the backend, and display results or errors.
+
+This lightweight, modular setup provides a quick prototype with easy paths for future upgrades like semantic search or LLM integration.
+
+
+https://github.com/iamkomal-code/HR-Resource-Query-Chatbot/blob/51c10c03917d248742abd18d6f518d4342580259/Screenshot%201.jpg
+
+
 
 
