@@ -27,7 +27,7 @@ This version uses:
 -FastAPI backend with live `/chat` endpoint
 -Simple rule-based matcher (can be upgraded to AI later)
 -Streamlit chat interface with response display
--Modular code structure (easy to add embeddings or LLMs)
+-Modular code structure 
 
 
 
