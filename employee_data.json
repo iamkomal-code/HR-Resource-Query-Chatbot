@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS", "Docker"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": ["Machine Learning", "scikit-learn",  "AWS", "Docker", "Python", "Pandas"],
+      "experience_years": 4,
+      "projects": ["Healthcare Risk Prediction", "Financial Forecasting", "React Native Starter"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": ["TensorFlow", "PyTorch", "Computer Vision", "React Native"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "Healthcare Imaging"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "skills": ["React Native", "JavaScript", "AWS"],
+      "experience_years": 3,
+      "projects": ["Mobile Retail App", "React Native"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Priya Patel",
+      "skills": ["Docker", "Kubernetes", "Python", "AWS"],
+      "experience_years": 7,
+      "projects": ["Cloud Infrastructure", "DevOps Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "James Smith",
+      "skills": ["Java", "Spring Boot", "MySQL"],
+      "experience_years": 5,
+      "projects": ["Banking System", "Loan App"],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Linda Nguyen",
+      "skills": ["React", "Node.js", "GraphQL"],
+      "experience_years": 4,
+      "projects": ["Social Media Platform", "Fitness Tracker"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Ahmed Khan",
+      "skills": ["Python", "Docker", "Machine Learning"],
+      "experience_years": 6,
+      "projects": ["Fraud Detection System", "Healthcare Analytics"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Emily Davis",
+      "skills": ["AWS", "Terraform", "DevOps"],
+      "experience_years": 5,
+      "projects": ["Cloud Migration Project"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Carlos Martinez",
+      "skills": ["Python", "React", "Django"],
+      "experience_years": 4,
+      "projects": ["Education Portal"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Sophia Wilson",
+      "skills": ["React Native", "TypeScript"],
+      "experience_years": 3,
+      "projects": ["Fitness App", "React Native Mobile UI"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Tom Baker",
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "experience_years": 6,
+      "projects": ["Enterprise Cloud System", "Monitoring Pipeline"],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Maya Singh",
+      "skills": ["Python", "Flask", "Healthcare"],
+      "experience_years": 5,
+      "projects": ["Electronic Medical Records", "Hospital Booking System"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Robert Young",
+      "skills": ["JavaScript", "React", "AWS"],
+      "experience_years": 4,
+      "projects": ["Retail Mobile App"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Anita Desai",
+      "skills": ["Python", "Machine Learning", "AWS", "Docker"],
+      "experience_years": 7,
+      "projects": ["Healthcare AI Platform", "Insurance Risk Scoring"],
+      "availability": "available"
+    }
+  ]
+}
