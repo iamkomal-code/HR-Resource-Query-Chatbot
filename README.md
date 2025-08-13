@@ -79,7 +79,7 @@ The frontend uses Streamlit to take user input, send queries to the backend, and
 This lightweight, modular setup provides a quick prototype with easy paths for future upgrades like semantic search or LLM integration.
 
 
-https://github.com/iamkomal-code/HR-Resource-Query-Chatbot/blob/51c10c03917d248742abd18d6f518d4342580259/Screenshot%201.jpg
+![image alt](https://github.com/iamkomal-code/HR-Resource-Query-Chatbot/blob/51c10c03917d248742abd18d6f518d4342580259/Screenshot%201.jpg)
 
 
 
